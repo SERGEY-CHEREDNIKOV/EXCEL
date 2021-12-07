@@ -1,0 +1,13 @@
+@import 'fonts';
+@import 'blocks/test';
+
+body {
+    font-family: Montserrat-ExtraBold;
+    font-size: 32px;
+    background-color: $color;
+}
+
+.container {
+    background: center url('../images/test.jpg') no-repeat;
+    height: 100vh;
+}
